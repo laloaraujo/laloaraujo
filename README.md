@@ -1,7 +1,7 @@
 <div align="center">
 
 # Olá, eu sou **Lalo** 👋  
-### Estudante de Matemática • Probabilidade • Estatística
+### Tecnólogo em Análise e Desenvolvimento de Sistemas • Pós-graduando em Data Science
 
 </div>
 
@@ -9,18 +9,18 @@
 
 ## 🎓 Formação Acadêmica
 
-- 📘 Aluno do **Bacharelado em Matemática** — Universidade Cruzeiro do Sul  
-- 💻 Graduado em **Análise e Desenvolvimento de Sistemas** — Descomplica UniAmérica Centro Universitário  
+- 💻 **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Descomplica UniAmérica Centro Universitário  
+- 📊 **Pós-graduação em Data Science** — Descomplica UniAmérica Centro Universitário 
 
 ---
 
 ## 🔬 Áreas de Interesse
 
-- Probabilidade  
-- Estatística Matemática  
+- Análise de Dados  
 - Simulação de Processos Estocásticos  
-- Análise Exploratória de Dados  
-- Modelagem Matemática  
+- Estatística e Probabilidade  
+- Análise Bayesiana  
+- Machine Learning  
 
 ---
 
@@ -36,22 +36,22 @@
 
 ## 📊 Estudos Atuais
 
-- Fundamentos rigorosos de probabilidade  
-- Distribuições estatísticas e inferência  
-- Simulações computacionais  
+- Machine Learning aplicado à análise de dados  
+- Modelagem probabilística  
+- Simulação computacional de sistemas estocásticos  
+- Inferência estatística e métodos bayesianos  
 - Visualização e interpretação de dados  
-- Métodos matemáticos aplicados  
 
 ---
 
 ## 🎯 Objetivo
 
-Construir uma base matemática sólida aliada à computação para atuar em ciência de dados, modelagem probabilística e pesquisa quantitativa.
+Aplicar matemática, estatística e computação para desenvolver modelos de análise de dados, simulações estocásticas e soluções baseadas em Machine Learning.
 
 ---
 
 ## 📫 Contato
 
 - Email: laloarauxo@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/eduardoaraujo76/
-- Instagram: https://www.instagram.com/lalomaths/
+- LinkedIn: https://www.linkedin.com/in/eduardoaraujo76/  
+- Instagram: https://www.instagram.com/lalo-arauxo/
