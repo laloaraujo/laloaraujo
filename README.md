@@ -54,4 +54,4 @@ Aplicar matemática, estatística e computação para desenvolver modelos de an�
 
 - Email: laloarauxo@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/eduardoaraujo76/  
-- Instagram: https://www.instagram.com/lalo-arauxo/
+- Instagram: https://www.instagram.com/cyberlalo/
